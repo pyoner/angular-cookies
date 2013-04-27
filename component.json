@@ -1,0 +1,16 @@
+{
+  "name": "angular-cookies",
+  "repo": "pyoner/angular-cookies",
+  "description": "AngularJS for Component, cookies module",
+  "version": "1.0.6",
+  "keywords": ["angular", "angularjs", "component", "component.io", "cookies"],
+  "dependencies": {
+    "pyoner/angular": "1.0.6"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
